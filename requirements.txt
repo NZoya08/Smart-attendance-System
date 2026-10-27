@@ -1,4 +1,8 @@
-opencv-python
-numpy
-insightface
+streamlit
+opencv-python-headless
+numpy<2
+pandas
 onnxruntime
+cython
+insightface
+mysql-connector-python
